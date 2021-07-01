@@ -3,3 +3,4 @@
 - Another test edit
 - Another edit
 - Confirmation edit 
+- Edit after pulling from remote
